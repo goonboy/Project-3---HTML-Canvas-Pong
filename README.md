@@ -4,7 +4,7 @@ This is a remake of one of the oldest arcade games around  using HTML5 canvas an
 
 ‡‡‡‡‡ PLEASE NOTE:  To run in CLI, please enter "webpack-dev-server --host 0.0.0.0 --port 8000" ‡‡‡‡‡
 
-Please see comments for more details.  
+There were issues running on port 80 and 8080 on my PC, so I set the port to 8000 to avoid any conflicts.  Sorry for any inconvenience!
 
 ## How to play
 
